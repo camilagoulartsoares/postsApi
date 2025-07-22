@@ -1,0 +1,4 @@
+com/postsapi/PostsApiApplication.class
+com/postsapi/controller/PostController.class
+com/postsapi/model/Post.class
+com/postsapi/repository/PostRepository.class
